@@ -7,6 +7,7 @@ import java.util.List;
  */
 public class TxtWriter {
     private String filePath;
+
     private List<String>list=new ArrayList<>();
     private FileWriter fileWriter;
     private File fileOut;
